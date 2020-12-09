@@ -81,6 +81,10 @@ This project is [MIT](./LICENSE) licensed.
 
 
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
+* [Devise gem](https://github.com/heartcombo/devise)
+* [Better errors gem](https://rubygems.org/gems/better_errors)
+* [Guard gem](https://rubygems.org/gems/guard)
+* [Guard livereload gem](https://github.com/guard/guard-livereload/)
+* [Bulma Rails gem](https://rubygems.org/gems/bulma-rails)
+* [Simple Form gem](https://github.com/plataformatec/simple_form/)
+* [gravatar image tag gem](https://github.com/mdeering/gravatar_image_tag/)
