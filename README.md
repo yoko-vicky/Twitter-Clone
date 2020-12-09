@@ -1,12 +1,13 @@
 # Twitter Clone
-![Top Page Screenshot](./screenshot.jpg)
+![Top Page Screenshot](./screenshot.png)
 
 ## About the Project
 
-This project is based on ...
+In this project, I built Twitter Clone following [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo), [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t), and [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME).
+
+This project is based on the [Odin Project: Authentication](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication).
 
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
-
 
 ## Table of Contents
 
@@ -81,6 +82,10 @@ This project is [MIT](./LICENSE) licensed.
 
 
 ## Acknowledgements
+* [Odin Project: Authentication](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
+* [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo)
+* [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t)
+* [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME)
 * [Devise gem](https://github.com/heartcombo/devise)
 * [Better errors gem](https://rubygems.org/gems/better_errors)
 * [Guard gem](https://rubygems.org/gems/guard)
