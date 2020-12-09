@@ -3,7 +3,7 @@
 
 ## About the Project
 
-In this project, I built Twitter Clone following [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo), [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t), and [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME). I use a lot of gems including devise, gravatar_image_tag, Bulma, Simple Form and others.
+In this project, I built Twitter Clone following [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo), [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t), and [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME). I use a lot of gems including devise, gravatar_image_tag, bulma, simple form and others.
 
 This project is based on the [Odin Project: Authentication](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication).
 
@@ -90,7 +90,7 @@ This project is [MIT](./LICENSE) licensed.
 * [Better errors gem](https://rubygems.org/gems/better_errors)
 * [Guard gem](https://rubygems.org/gems/guard)
 * [Guard livereload gem](https://github.com/guard/guard-livereload/)
-* [Bulma Rails gem](https://rubygems.org/gems/bulma-rails)
-* [Simple Form gem](https://github.com/plataformatec/simple_form/)
-* [gravatar image tag gem](https://github.com/mdeering/gravatar_image_tag/)
+* [Bulma rails gem](https://rubygems.org/gems/bulma-rails)
+* [Simple form gem](https://github.com/plataformatec/simple_form/)
+* [Gravatar image tag gem](https://github.com/mdeering/gravatar_image_tag/)
 * [Fontawesome CDN](https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
