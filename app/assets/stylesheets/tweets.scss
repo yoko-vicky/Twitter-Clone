@@ -1,3 +1,27 @@
 // Place all the styles related to the Tweets controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+@import 'bulma';
+
+.navbar-brand {
+  background-color: $info !important;
+}
+
+.navbar-brand .title {
+  color: white;
+}
+
+.image {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.notification:not(:last-child) {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.icon i {
+  color: $info;
+}
