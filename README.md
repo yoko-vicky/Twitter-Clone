@@ -3,7 +3,7 @@
 
 ## About the Project
 
-In this project, I built Twitter Clone following [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo), [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t), and [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME).
+In this project, I built Twitter Clone following [A Twitter Clone Lets Build with Ruby on Rails Part 1](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo), [A Twitter Clone Lets Build with Ruby on Rails Part 2](https://www.youtube.com/watch?v=ZxkbFOe3lRY&t), and [A Twitter Clone Lets Build with Ruby on Rails Part 3](https://www.youtube.com/watch?v=V4h7-hR_WME). I use a lot of gems including devise, gravatar_image_tag, Bulma, Simple Form and others.
 
 This project is based on the [Odin Project: Authentication](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication).
 
