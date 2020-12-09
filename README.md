@@ -33,7 +33,7 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 
 ## Live Demo
 
-[Live Demo Link](https://yocosaka.github.io)
+[Live Demo Link](https://repl.it/@yocoono/Twitter-Clone)
 
 
 ## Getting Started
@@ -93,3 +93,4 @@ This project is [MIT](./LICENSE) licensed.
 * [Bulma Rails gem](https://rubygems.org/gems/bulma-rails)
 * [Simple Form gem](https://github.com/plataformatec/simple_form/)
 * [gravatar image tag gem](https://github.com/mdeering/gravatar_image_tag/)
+* [Fontawesome CDN](https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css)
